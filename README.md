@@ -1,16 +1,18 @@
-## Hi there 👋
+# 你好，我係 Brooks 👋
 
-<!--
-**mbin1221/mbin1221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌏 來自澳門，GitHub 新手，啱啱開始探索開源世界。
 
-Here are some ideas to get you started:
+## 我關注嘅嘢
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚽ 足球賽事
+- 🤖 AI 工具同開源項目（研究緊 LangBot、AstrBot）
+- 💼 AI 求職工具（ai-job-search、JobSpy）
+- 📱 科技新產品
+
+## 呢個倉庫
+
+呢度係我嘅 GitHub 主頁倉庫，用嚟練習 GitHub 同記錄我嘅開源探索。
+
+---
+
+⭐ 路過歡迎打個招呼！
